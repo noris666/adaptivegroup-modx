@@ -1,2 +1,2 @@
 # Adaptive Group MODx extensions
-This repository will be collected in the open development of extensions for MODx Revolution.
+This repository will be published open Adaptive Group development for MODx Revolution platform.
