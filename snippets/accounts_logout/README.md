@@ -14,7 +14,7 @@ In response we need use code object. When code equals 0 all good and user logged
 
 # Response examples
 
-## Good response and logout
+## Good
 ```javascript
 {
   "code": 0,
@@ -22,7 +22,7 @@ In response we need use code object. When code equals 0 all good and user logged
 }
 ```
 
-## Bad response
+## Bad
 ```javascript
 {
   "code": -1,
